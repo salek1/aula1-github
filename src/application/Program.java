@@ -6,6 +6,7 @@ public class Program {
 		
 		System.out.println("Olá Mundo do GitHub! :D");
 		System.out.println("Bom dia! :D");
+		System.out.println("Boa Tarde! :D");
 	}
 
 }
